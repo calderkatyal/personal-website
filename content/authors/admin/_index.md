@@ -67,7 +67,7 @@ work:
     date_start: June 2024
     date_end: August 2024
     summary: |
-    Used advanced computer vision techniques and frameworks (PyTorch) to find a scale-invariant, Markovian state space representation of cooking. Synthesized a massive dataset with thousands of multimodal data points augmented with auto-generated labels via LLMs, trained a state-of-the-art visual classifier for food using transfer learning and contrastive learning techniques. Developed GPU and RAM optimized code to train model given limited compute; adapted real-world data (blurry and disorganized unlabeled video footage, incomprehensible machine-generated cooking logs, etc.) to structured formats using data augmentation and preprocessing techniques. Developed novel model architectures incorporating CNN and transformer-based components. Discussed ideas with CloudChef engineers (top IIT graduates) and implemented the solutions independently.
+      Used advanced computer vision techniques and frameworks (PyTorch) to find a scale-invariant, Markovian state space representation of cooking. Synthesized a massive dataset with thousands of multimodal data points augmented with auto-generated labels via LLMs, trained a state-of-the-art visual classifier for food using transfer learning and contrastive learning techniques. Developed GPU and RAM optimized code to train model given limited compute; adapted real-world data (blurry and disorganized unlabeled video footage, incomprehensible machine-generated cooking logs, etc.) to structured formats using data augmentation and preprocessing techniques. Developed novel model architectures incorporating CNN and transformer-based components. Discussed ideas with CloudChef engineers (top IIT graduates) and implemented the solutions independently.
   
   - position: Research Assistant
     company_name: Yale Vision Laboratory
@@ -76,7 +76,7 @@ work:
     date_start: January 2024
     date_end: May 2024
     summary: |
-    Worked as research assistant at Yale (Computer) Vision Laboratory under Prof. Alex Wong; was involved in a PyTorch project involving tracking a robot performing an anastomosis surgery using convolutional neural architectures.
+      Worked as research assistant at Yale (Computer) Vision Laboratory under Prof. Alex Wong; was involved in a PyTorch project involving tracking a robot performing an anastomosis surgery using convolutional neural architectures.
 
   - position: Analyst Intern
     company_name: Appian Corporation
@@ -85,7 +85,7 @@ work:
     date_start: June 2023
     date_end: August 2023
     summary: |
-    Interned at Appian (a multibillion-dollar public cloud-computing and enterprise software company) directly for founder Marc Wilson. Conducted interviews and leveraged tools such as Salesforce to develop a data-driven executive engagement program for the company. Participated in company-critical meetings at Appian and performed financial analysis on key Appian accounts. Designed a program that is now fully implemented across the entire 2,500-employee company and has led to a new Office of Executive Engagement. Received offer to return to employment at Appian.
+      Interned at Appian (a multibillion-dollar public cloud-computing and enterprise software company) directly for founder Marc Wilson. Conducted interviews and leveraged tools such as Salesforce to develop a data-driven executive engagement program for the company. Participated in company-critical meetings at Appian and performed financial analysis on key Appian accounts. Designed a program that is now fully implemented across the entire 2,500-employee company and has led to a new Office of Executive Engagement. Received offer to return to employment at Appian.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
