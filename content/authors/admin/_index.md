@@ -55,7 +55,7 @@ education:
       - Advanced Optimization*
       - Reinforcement Learning*
 
-      * = graduate-level
+      \* = graduate-level
     button:
       text: 'View Transcript'
       url: 'uploads/transcriptcalderkatyal.pdf'
