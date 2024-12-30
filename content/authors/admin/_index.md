@@ -64,8 +64,8 @@ work:
     company_name: CloudChef, Inc.
     company_url: https://www.cloudchef.co/
     company_logo: https://www.cloudchef.store/cdn/shop/files/cloudchefwebp.png?v=1680575554
-    date_start: June 2024
-    date_end: August 2024
+    date_start: 2024-06-24
+    date_end: 2024-08-05
     summary: |
       Used advanced computer vision techniques and frameworks (PyTorch) to find a scale-invariant, Markovian state space representation of cooking. Synthesized a massive dataset with thousands of multimodal data points augmented with auto-generated labels via LLMs, trained a state-of-the-art visual classifier for food using transfer learning and contrastive learning techniques. Developed GPU and RAM optimized code to train model given limited compute; adapted real-world data (blurry and disorganized unlabeled video footage, incomprehensible machine-generated cooking logs, etc.) to structured formats using data augmentation and preprocessing techniques. Developed novel model architectures incorporating CNN and transformer-based components. Discussed ideas with CloudChef engineers (top IIT graduates) and implemented the solutions independently.
   
@@ -73,8 +73,8 @@ work:
     company_name: Yale Vision Laboratory
     company_url: https://vision.cs.yale.edu/
     company_logo: https://vision.cs.yale.edu/images/logo.png
-    date_start: January 2024
-    date_end: May 2024
+    date_start: 2024-01-15
+    date_end: 2024-05-10
     summary: |
       Worked as research assistant at Yale (Computer) Vision Laboratory under Prof. Alex Wong; was involved in a PyTorch project involving tracking a robot performing an anastomosis surgery using convolutional neural architectures.
 
@@ -82,8 +82,8 @@ work:
     company_name: Appian Corporation
     company_url: https://appian.com/
     company_logo: https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Appian_Logo.svg/2560px-Appian_Logo.svg.png
-    date_start: June 2023
-    date_end: August 2023
+    date_start: 2024-06-12
+    date_end: 2024-08-15
     summary: |
       Interned at Appian (a multibillion-dollar public cloud-computing and enterprise software company) directly for founder Marc Wilson. Conducted interviews and leveraged tools such as Salesforce to develop a data-driven executive engagement program for the company. Participated in company-critical meetings at Appian and performed financial analysis on key Appian accounts. Designed a program that is now fully implemented across the entire 2,500-employee company and has led to a new Office of Executive Engagement. Received offer to return to employment at Appian.
 
