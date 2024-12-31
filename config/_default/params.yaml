@@ -36,7 +36,9 @@ header:
     show_theme_chooser: true
     logo:
       text: "Calder Katyal"
-    favicon: "/favicon.ico"
+
+# Move favicon to root level
+favicon: "/favicon.ico"
 
 # Site footer
 footer:
