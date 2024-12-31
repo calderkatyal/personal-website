@@ -27,7 +27,7 @@ marketing:
     baidu: ''
 
 # Site header
-# Site header
+
 header:
   navbar:
     enable: true
@@ -37,10 +37,11 @@ header:
     show_theme_chooser: true
     logo:
       text: "Calder Katyal"
-    favicon: "/favicon.ico"
     custom_head: |
+      <link rel="icon" type="image/x-icon" href="/favicon.ico">
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    favicon: "/favicon.ico"
 
 # Site footer
 footer:
