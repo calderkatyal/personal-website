@@ -36,16 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Calder Katyal"
-    favicon:
-      enabled: true
-      path: "/favicon.ico"
-      manifest: true
-      svg: false
-      png:
-        - size: 16
-          path: "/favicon-16x16.png"
-        - size: 32
-          path: "/favicon-32x32.png"
+    favicon: "/favicon.ico"
 
 # Site footer
 footer:
