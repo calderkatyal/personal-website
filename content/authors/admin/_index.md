@@ -96,7 +96,7 @@ skills:
         icon: code-bracket
         description: ''
       - name: Statistics & Math
-        icon: calulator
+        icon: calculator
       - name: Convex Optimization
         description: ''
         icon: chart-bar
