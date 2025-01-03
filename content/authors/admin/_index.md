@@ -94,17 +94,18 @@ skills:
     items:
       - name: "Coding (strongest: Python)"
         icon: code-bracket
+        description: ''
       - name: Bayesian Statistics
-        icon: calculator
+        icon: chart-pie
       - name: Convex Optimization
         description: ''
         icon: chart-bar
       - name: "ML (strongest: PyTorch)"
         description: ''
-        icon: code-bracket
+        icon: cpu-chip
       - name: Cts. & Disc. Math
         description: ''
-        icon: chart-bar
+        icon: calculator
   - name: Hobbies
     items:
       - name: Chess
@@ -113,13 +114,10 @@ skills:
       - name: Piano
         description: ''
         icon: musical-note
-      - name: Weightlifting
-        description: ''
-        icon: person-simple-walk
       - name: Skiing
         description: ''
         percent: 70
-        icon: ⛷️
+        icon: cloud
       - name: Investing
         description: ''
         icon: arrow-trending-up
