@@ -24,7 +24,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-      css_class: 'justify-start items-start text-left' 
+      css_class: 'section-heading:text-left section-heading:ml-0'  
  # - block: resume-awards
  #   content:
  #     title: Awards
