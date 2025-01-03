@@ -24,6 +24,8 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+      spacing:
+        padding: ["0", "0", "0", "0"]
  # - block: resume-awards
  #   content:
  #     title: Awards
@@ -32,4 +34,7 @@ sections:
     content:
       title: Languages
       username: admin
+    design: 
+      spacing:
+          padding: ["0", "0", "0", "0"]
 ---
