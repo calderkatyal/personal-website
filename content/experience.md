@@ -24,9 +24,9 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-    headline_style:
+      headline_style:
         align: start 
-    spacing: 
+      spacing: 
         padding: ["2rem", 0, "2rem", 0]
  # - block: resume-awards
  #   content:
