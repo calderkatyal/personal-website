@@ -109,7 +109,7 @@ skills:
     items:
       - name: Chess
         description: ''
-        icon: chart-bar
+        icon: puzzle-piece
       - name: Piano
         description: ''
         icon: musical-note
@@ -119,7 +119,7 @@ skills:
       - name: Skiing
         description: ''
         percent: 70
-        icon: person-simple-walk
+        icon: ⛷️
       - name: Investing
         description: ''
         icon: arrow-trending-up
