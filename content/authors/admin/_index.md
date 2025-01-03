@@ -91,6 +91,8 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Python
         description: ''
