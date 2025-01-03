@@ -95,17 +95,15 @@ skills:
       - name: "Coding (strongest: Python)"
         icon: code-bracket
         description: ''
-      - name: Bayesian Statistics
-        icon: chart-pie
+      - name: Statistics & Math
+        icon: calulator
       - name: Convex Optimization
         description: ''
         icon: chart-bar
       - name: "ML (strongest: PyTorch)"
         description: ''
         icon: cpu-chip
-      - name: Cts. & Disc. Math
-        description: ''
-        icon: calculator
+
   - name: Hobbies
     items:
       - name: Chess
@@ -128,7 +126,7 @@ languages:
   - name: Chinese
     percent: 50
 
-# Awards.
+
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
