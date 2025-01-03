@@ -131,6 +131,8 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
+<!--
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -157,8 +159,8 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+-->
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Calder Katyal is a passionate student of Applied Mathematics and Computer Science at Yale University who concentrates in Machine Learning. With the ability to learn extremely quickly and adapt to new learning environments, he is constantly exploring new technologies. Calder has researched and published in various fields of ML, such as geometric learning and convex optimization, and worked as an RA at the Yale (Computer) Vision Laboratory. In Summer 2024, Calder worked as a Machine Learning Intern at the Palo Alto-based startup CloudChef, Inc., where he leveraged advanced computer vision techniques and frameworks, synthesizing a massive dataset with thousands of multimodal data points and training a high-performing visual classifier for food using transfer learning and open-source models. He has previously worked for Appian Corp, a multibillion cloud-computing and enterprise software company, reporting directly to the founder. Calder is already experienced in Python, PyTorch, Java, C, C++, JavaScript, HTML, CSS, R, and more, also taking graduate-level ML courses at Yale. Most importantly, Calder is a well-rounded student, passionate about all things from math to journalism (published author on The Atlantic). In his free time, you can find Calder reading, playing classical piano, or singing.
