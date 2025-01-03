@@ -26,7 +26,7 @@ sections:
       show_skill_percentage: false
       spacing:
         padding: ["0", "0", "2rem", "0"]
-      css_class: 'section-heading:!flex section-heading:!justify-start section-hea
+      css_class: 'section-heading:!flex section-heading:!justify-start section-heading:!text-left section-heading:!items-start'
  # - block: resume-awards
  #   content:
  #     title: Awards
