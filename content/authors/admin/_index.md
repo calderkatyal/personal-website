@@ -92,39 +92,29 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 95
+      - name: "Coding (strongest: Python)"
         icon: code-bracket
-      - name: PyTorch
+      - name: Bayesian Statistics
+        icon: calculator
+      - name: Convex Optimization
         description: ''
-        percent: 75
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 90
         icon: chart-bar
-      - name: C++
+      - name: "ML (strongest: PyTorch)"
         description: ''
-        percent: 75
         icon: code-bracket
-      - name: Data Structures
+      - name: Cts. & Disc. Math
         description: ''
-        percent: 75
         icon: chart-bar
   - name: Hobbies
     items:
       - name: Chess
         description: ''
-        percent: 80
         icon: chart-bar
       - name: Piano
         description: ''
-        percent: 85
-        icon: camera
+        icon: musical-note
       - name: Weightlifting
         description: ''
-        percent: 75
         icon: person-simple-walk
       - name: Skiing
         description: ''
@@ -132,8 +122,7 @@ skills:
         icon: person-simple-walk
       - name: Investing
         description: ''
-        percent: 75
-        icon: chart-bar
+        icon: arrow-trending-up
 
 languages:
   - name: English
