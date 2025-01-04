@@ -1,12 +1,12 @@
 ---
-title: "Differentiable Convex Optimization Layers in Neural Architectures: Foundations and Perspectives"
+title: "Attention-Driven Metapath Encoding in Heterogeneous Graphs"
 authors:
 - admin
 date: "2024-12-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,22 +17,21 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: The integration of optimization problems within neural network architectures represents a fundamental shift from traditional approaches to handling constraints in deep learning. While it is long known that neural networks can incorporate soft constraints with techniques such as regularization, strict adherence to hard constraints is generally more difficult. A recent advance in this field, however, has addressed this problem by enabling the direct embedding of optimization layers as differentiable components within deep networks. This paper surveys the evolution and current state of this approach, from early implementations limited to quadratic programming, to more recent frameworks supporting general convex optimization problems. We provide a comprehensive review of the background, theoretical foundations, and emerging applications of this technology. Our analysis includes detailed mathematical proofs and an examination of various use cases that demonstrate the potential of this hybrid approach. This work synthesizes developments at the intersection of optimization theory and deep learning, offering insights into both current capabilities and future research directions in this rapidly evolving field.
-
+abstract: One of the emerging techniques in node classification in heterogeneous graphs is to restrict message aggregation to pre-defined, semantically meaningful structures called metapaths. This work is the first attempt to incorporate attention into the process of encoding entire metapaths without dropping intermediate nodes. In particular, we construct two encoders: the first uses sequential attention to extend the multi-hop message passing algorithm designed in Wang et al. to the metapath setting, and the second incorporates direct attention to extract semantic relations in the metapath. The model then employs the intra-metapath and inter-metapath aggregation mechanisms of Wang et al. We furthermore use the powerful training scheduler specialized for heterogeneous graphs that was developed in Wong et al., ensuring the model slowly learns how to classify the most difficult nodes. The result is a resilient, general-purpose framework for capturing semantic structures in heterogeneous graphs. In particular, we demonstrate that our model is competitive with state-of-the-art models on performing node classification on the IMDB dataset, a popular benchmark introduced in Lv et al.
 tags:
 - Convex Optimization
 
 featured: true
 
 links:
-url_pdf: https://arxiv.org/abs/2412.20679
+url_pdf: https://arxiv.org/pdf/2412.20678
 #url_code: ''
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: 'https://drive.google.com/file/d/1vfT2KnRS87nKL369RCfXmG_TdoF5UKcK/view?usp=sharing'
+#url_slides: 'https://drive.google.com/file/d/1vfT2KnRS87nKL369RCfXmG_TdoF5UKcK/view?usp=sharing'
 #url_source: '#'
-url_video: 'https://drive.google.com/file/d/1d8g3yNQ-GY2n66Y11SO4B7eQEKzLqx4W/view?usp=drive_link'
+#url_video: 'https://drive.google.com/file/d/1d8g3yNQ-GY2n66Y11SO4B7eQEKzLqx4W/view?usp=drive_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -55,4 +54,4 @@ projects: []
 slides: ""
 ---
 
-This ~15 page paper on convex differentiable optimization layers in neural architecture was submitted as a final project for S&DS431 at Yale.
+In this paper, I propos and implement a novel heterogeneous graph neural network architecture for CPSC483 at Yale. The model implements an original attention-based mechanism to extract features from semantically meaningful relations (“metapaths”) inside a graph. I derive key results and conduct extensive testing of the model, documenting it in the detailed report.
