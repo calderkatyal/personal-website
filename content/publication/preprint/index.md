@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Differentiable Convex Optimization Layers in Neural Architectures: Foundations and Perspectives"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-12-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
 url_pdf: https://arxiv.org/abs/2412.20679
 #url_code: ''
 #url_dataset: '#'
