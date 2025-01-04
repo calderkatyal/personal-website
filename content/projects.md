@@ -18,6 +18,7 @@ sections:
           - project
     design:
       view: article-grid
+      text_length: 1000
       fill_image: false
       columns: 3
 ---
