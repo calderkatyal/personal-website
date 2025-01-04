@@ -19,7 +19,7 @@ publication_short: ""
 
 abstract: "One of the emerging techniques in node classification in heterogeneous graphs is to restrict message aggregation to pre-defined, semantically meaningful structures called metapaths. This work is the first attempt to incorporate attention into the process of encoding entire metapaths without dropping intermediate nodes. In particular, we construct two encoders: the first uses sequential attention to extend the multi-hop message passing algorithm designed in Wang et al. to the metapath setting, and the second incorporates direct attention to extract semantic relations in the metapath. The model then employs the intra-metapath and inter-metapath aggregation mechanisms of Wang et al. We furthermore use the powerful training scheduler specialized for heterogeneous graphs that was developed in Wong et al., ensuring the model slowly learns how to classify the most difficult nodes. The result is a resilient, general-purpose framework for capturing semantic structures in heterogeneous graphs. In particular, we demonstrate that our model is competitive with state-of-the-art models on performing node classification on the IMDB dataset, a popular benchmark introduced in Lv et al."
 tags:
-- Convex Optimization
+- Graph Neural Networks
 
 featured: true
 
