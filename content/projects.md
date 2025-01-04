@@ -16,8 +16,5 @@ sections:
           - project
     design:
       view: showcase   
-      layout: grid     
       columns: 3
-      flip_alt: true
-
 ---
