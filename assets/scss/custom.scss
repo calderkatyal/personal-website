@@ -1,9 +1,0 @@
-:where(.projects-page, body, #main-content) p:where(.mt-2, .line-clamp-3, .text-sm, .text-gray-500),
-:where(.projects-page, body, #main-content) .line-clamp-3 {
-    line-clamp: none !important;
-    -webkit-line-clamp: none !important;
-    display: block !important;
-    overflow: visible !important;
-    -webkit-box-orient: unset !important;
-    max-height: none !important;
-}
