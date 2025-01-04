@@ -56,4 +56,4 @@ projects: []
 slides: ""
 ---
 
-This ~15 page paper was submitted as a final project for S&DS431 at Yale.
+This ~15 page paper on convex differentiable optimization layers in neural architecture was submitted as a final project for S&DS431 at Yale.
