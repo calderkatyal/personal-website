@@ -1,8 +1,10 @@
 .projects-page {
+    .line-clamp-2,
     .line-clamp-3 {
       line-clamp: none !important;
-      -webkit-line-clamp: unset !important;
+      -webkit-line-clamp: none !important;
       overflow: visible !important;
       display: block !important;
+      -webkit-box-orient: unset !important;
     }
   }
