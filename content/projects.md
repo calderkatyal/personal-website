@@ -15,6 +15,6 @@ sections:
         folders:
           - project
     design:
-      view: showcase   
+      view: masonry
       columns: 3
 ---
