@@ -3,11 +3,11 @@ title: Projects
 date: 2024-01-03
 type: landing
 
-# Section spacing
+# Add this line to apply the custom class
 design:
+  css_class: projects-page
   spacing: '5rem'
 
-# Page sections
 sections:
   - block: collection
     content:
@@ -18,7 +18,7 @@ sections:
           - project
     design:
       view: article-grid
+      text_length: 1000
       fill_image: false
       columns: 3
-      css_style: ".line-clamp-3 { -webkit-line-clamp: unset !important; overflow: visible; }"
 ---
