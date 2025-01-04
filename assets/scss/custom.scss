@@ -1,10 +1,28 @@
 .projects-page {
-    .line-clamp-2,
-    .line-clamp-3 {
-      line-clamp: none !important;
-      -webkit-line-clamp: none !important;
-      overflow: visible !important;
-      display: block !important;
-      -webkit-box-orient: unset !important;
+  .line-clamp-2,
+  .line-clamp-3 {
+    overflow: visible !important;
+    display: block !important;
+    -webkit-box-orient: initial !important;
+    -webkit-line-clamp: initial !important;
+    
+    &::before,
+    &::after {
+      display: none !important;
     }
   }
+  
+  // Also specifically override the standalone line-clamp-3 class
+  .line-clamp-3 {
+    -webkit-line-clamp: initial !important;
+  }
+}
+
+// If needed, also try with the full path
+body .projects-page .line-clamp-2,
+body .projects-page .line-clamp-3 {
+  overflow: visible !important;
+  display: block !important;
+  -webkit-box-orient: initial !important;
+  -webkit-line-clamp: initial !important;
+}

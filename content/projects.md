@@ -3,10 +3,16 @@ title: Projects
 date: 2024-01-03
 type: landing
 
-# Add this line to apply the custom class
 design:
   css_class: projects-page
   spacing: '5rem'
+  css_style: |
+    .line-clamp-2, .line-clamp-3 {
+      overflow: visible !important;
+      display: block !important;
+      -webkit-box-orient: initial !important;
+      -webkit-line-clamp: initial !important;
+    }
 
 sections:
   - block: collection
