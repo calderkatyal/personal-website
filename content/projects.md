@@ -7,11 +7,11 @@ design:
   css_class: projects-page
   spacing: '5rem'
   css_style: |
-    .line-clamp-2, .line-clamp-3 {
-      overflow: visible !important;
+    .mt-2.line-clamp-3.text-sm.text-gray-500 {
       display: block !important;
-      -webkit-box-orient: initial !important;
       -webkit-line-clamp: initial !important;
+      -webkit-box-orient: initial !important;
+      overflow: visible !important;
     }
 
 sections:
