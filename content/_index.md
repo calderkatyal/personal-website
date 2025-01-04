@@ -37,7 +37,7 @@ sections:
       text: |-
         My research interests lie in various fields of applied machine learning, such as geometric learning and optimization.
 
-        Please reach out to colaborate.
+        Please reach out to collaborate.
     design:
       columns: '1'
   - block: collection
