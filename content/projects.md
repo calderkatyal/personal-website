@@ -18,7 +18,7 @@ sections:
           - project
     design:
       view: article-grid
-      text_length: 1000
       fill_image: false
       columns: 3
+      css_style: ".line-clamp-3 { -webkit-line-clamp: unset !important; overflow: visible; }"
 ---
