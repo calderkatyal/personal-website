@@ -15,6 +15,9 @@ sections:
         folders:
           - project
     design:
-      view: masonry
+      view: showcase   
+      layout: grid     
       columns: 3
+      flip_alt: true
+
 ---
