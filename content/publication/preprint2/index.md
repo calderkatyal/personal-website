@@ -54,4 +54,4 @@ projects: []
 slides: ""
 ---
 
-In this paper, I propos and implement a novel heterogeneous graph neural network architecture for CPSC483 at Yale. The model implements an original attention-based mechanism to extract features from semantically meaningful relations (“metapaths”) inside a graph. I derive key results and conduct extensive testing of the model, documenting it in the detailed report.
+In this paper, I propose and implement a novel heterogeneous graph neural network architecture for CPSC483 at Yale. The model implements an original attention-based mechanism to extract features from semantically meaningful relations (“metapaths”) inside a graph. I derive key results and conduct extensive testing of the model, documenting it in the detailed report.
