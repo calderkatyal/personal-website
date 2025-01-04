@@ -24,7 +24,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/2412.20678
+    url_pdf: https://arxiv.org/pdf/2412.20678
 #url_code: ''
 #url_dataset: '#'
 #url_poster: '#'
