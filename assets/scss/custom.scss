@@ -1,28 +1,9 @@
-.projects-page {
-  .line-clamp-2,
-  .line-clamp-3 {
-    overflow: visible !important;
+:where(.projects-page, body, #main-content) p:where(.mt-2, .line-clamp-3, .text-sm, .text-gray-500),
+:where(.projects-page, body, #main-content) .line-clamp-3 {
+    line-clamp: none !important;
+    -webkit-line-clamp: none !important;
     display: block !important;
-    -webkit-box-orient: initial !important;
-    -webkit-line-clamp: initial !important;
-    
-    &::before,
-    &::after {
-      display: none !important;
-    }
-  }
-  
-  // Also specifically override the standalone line-clamp-3 class
-  .line-clamp-3 {
-    -webkit-line-clamp: initial !important;
-  }
-}
-
-// If needed, also try with the full path
-body .projects-page .line-clamp-2,
-body .projects-page .line-clamp-3 {
-  overflow: visible !important;
-  display: block !important;
-  -webkit-box-orient: initial !important;
-  -webkit-line-clamp: initial !important;
+    overflow: visible !important;
+    -webkit-box-orient: unset !important;
+    max-height: none !important;
 }
