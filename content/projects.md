@@ -15,6 +15,6 @@ sections:
         folders:
           - project
     design:
-      view: card
+      view: showcase   
       columns: 3
 ---
