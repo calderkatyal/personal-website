@@ -24,12 +24,18 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
+      spacing:
+        padding: ["0", "0", "2rem", "0"]
+      css_class: 'section-heading:!flex section-heading:!justify-start section-heading:!text-left section-heading:!items-start'
+ # - block: resume-awards
+ #   content:
+ #     title: Awards
+ #     username: admin
   - block: resume-languages
     content:
       title: Languages
       username: admin
+    design: 
+      spacing:
+          padding: ["0", "0", "0", "0"]
 ---
