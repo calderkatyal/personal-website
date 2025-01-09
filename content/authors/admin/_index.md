@@ -123,7 +123,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Mandarin
     percent: 50
 
 
