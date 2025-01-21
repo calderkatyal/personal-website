@@ -58,7 +58,7 @@ education:
       \* = graduate-level
     button:
       text: 'View Transcript'
-      url: 'uploads/transcriptcalderkatyal.pdf'
+      url: 'uploads/transcript'
 work:
   - position: Machine Learning Intern
     company_name: CloudChef, Inc.
