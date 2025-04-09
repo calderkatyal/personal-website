@@ -56,9 +56,6 @@ education:
       - Reinforcement Learning*
 
       \* = graduate-level
-    button:
-      text: 'View Transcript'
-      url: '/uploads/transcript.pdf'
 work:
   - position: Machine Learning Intern
     company_name: CloudChef, Inc.
